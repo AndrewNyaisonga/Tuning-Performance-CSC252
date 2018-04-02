@@ -1,5 +1,5 @@
 # Tuning-Performance-CSC252
-                        My Implementation gives mean of 2.4 for rotate() and 3.2 for smooth. Let me know if there is any improments I can make. Here is the description of the project if you want to understand what we are trying to do. I will update explanation of my implementation soon.
+    My Implementation gives mean of 2.4 for rotate() and 3.2 for smooth. Let me know if there is any improments I can make. Here is the description of the project if you want to understand what we are trying to do. I will update explanation of my implementation soon.
                         
 This project deals with optimizing memory intensive code.  Image processing offers many examples of functions that can benefit from optimization.  We will consider two image processing operations:  rotate, which rotates an image counter-clockwise by 90° and smooth, which "smooths" or "blurs" an image. 
 
